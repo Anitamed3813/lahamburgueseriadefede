@@ -8,7 +8,10 @@
 .primertitulo{ 
     text-align: center;
 }
-
+.stock{
+    width: 35px;
+    height: 35px;
+}
 h2{
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
